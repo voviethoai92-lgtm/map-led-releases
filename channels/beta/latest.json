@@ -1,0 +1,15 @@
+{
+  "version": "0.9.0-rc.5",
+  "channel": "beta",
+  "notes": "MAP LED 0.9.0-rc.5 — Production license verification and signed beta updater. macOS Apple Silicon only. Ad-hoc signed; not notarized. Product Owner acceptance pending. Production Acceptance is an isolated test application; never install it over the customer app.",
+  "pub_date": "2026-10-30T00:21:07.378720+00:00",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/voviethoai92-lgtm/map-led-releases/releases/download/v0.9.0-rc.5/MAP-LED.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRiSHdXa0JJd0hxS2FkYVd4cGoxL250TThsUno1VktvRlRaa2p6bHA3a0Y4aXNiMEZrY2U1S1BoYTFoUTA4YU9ZQTU3b3BGM1crM0VDTldjbVVaZVlVV2tGMHZWdGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzE5MzE2CWZpbGU6TUFQIExFRC5hcHAudGFyLmd6CXZlcnNpb246MC45LjAtcmMuNQpBbkRYVWpwWmhOclZMeWRXcDU1Q1JQSTlsLzBDODNROHMxNTJjaEUwYjkxcUY3RDFoeW9vdkRIUjBDOXpDZnE0QkFrYitQWlVZUHBCK1dzRkpWeTJDZz09Cg=="
+    }
+  },
+  "sha256": {
+    "darwin-aarch64": "46e3d85975c91cdea97310912ab46173b60b20fe9c6ff76d8f83b1520be88b1e"
+  }
+}

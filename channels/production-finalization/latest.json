@@ -1,0 +1,15 @@
+{
+  "version": "0.10.4",
+  "channel": "stable",
+  "notes": "MAP LED 0.10.4 — controlled distribution, macOS Apple Silicon. Ad-hoc signed application; not notarized. Production license/payment trust. NUMBER18–38px; SLIDE NAME20–150px. No automatic bank verification or activation. NDI Tools runtime must be installed separately.",
+  "pub_date": "2026-10-30T18:26:24.230396+00:00",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/voviethoai92-lgtm/map-led-releases/releases/download/v0.10.4/MAP-LED-Release-Verification.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRiSHdXa0JJd0FhYjNuOHpEM2hnbzliWFZCeGFuaUxTUG9MMHZrVmdrdzBNV2JxUjN3UmFUdDZ0VGREY21PVXdWdUsrZ1gwcEViRHpTTUZjUU04UU1IbXI4R21FaHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzg0MzU3CWZpbGU6TUFQIExFRCBSZWxlYXNlIFZlcmlmaWNhdGlvbi5hcHAudGFyLmd6CXZlcnNpb246MC4xMC40CkVtTFBweHlibFJ4cnJoYkJ2TkNnYkJiR2dQWjVaampBbGVFS2RHVVVYbW9CSFBLRjI2aTdaVUFMeWEyOHI0M3dITXEweDY3bFZBb0haU3Q1c2daOUJRPT0K"
+    }
+  },
+  "sha256": {
+    "darwin-aarch64": "d5d3cedb6712a675d2610775c4cec188035928f58098d2a677484ac21b313727"
+  }
+}

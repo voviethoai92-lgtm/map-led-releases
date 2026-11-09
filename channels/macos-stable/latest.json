@@ -1,4 +1,5 @@
 {
+  "channel": "stable",
   "version": "0.10.9",
   "pub_date": "2026-11-09T07:45:05Z",
   "platforms": {

@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-11-05T08:38:40Z",
-  "version": "0.10.5",
+  "notes": "MAP LED 0.10.9 Windows x64",
+  "pub_date": "2026-11-09T07:42:25Z",
+  "version": "0.10.9",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IE1BUCBMRUQgV2luZG93cyBTdGFibGUKUlVReG5PdWJiOE0xRkVjRGVnWm9tRmN4bnZCcDBsV2dQZGFaRjdEU2FibGI0Mkk1aVpLZnhVd2kycDVuVWNES3JkckZSZXVqdi9CYXFEWjRkU1c3M1pWSnJpLzhXc0Z1V3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODY3ODk1CXZlcnNpb246MC4xMC41CkFZcWtIVjBBbnZaSG1EM0RnK2tDbkdXUi9UbG1mRGFSVWJwNnV3N3NxTEtBMXBMQS9ZNG03aDV4N0pGZEFOc2hMeGFUZTVPTG51KzhjYW94dmplZ0FBPT0K",
-      "url": "https://github.com/voviethoai92-lgtm/map-led-releases/releases/download/windows-v0.10.5/MAP_LED_Windows_0.10.5_Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IE1BUCBMRUQgV2luZG93cyBTdGFibGUKUlVUWHc3eEVoeGRlRnAvaXNDWDFORklQdTRFWDRJV0pHTjE1aSs2ZE9teldmSmtETnVMR1NTclVqV3UvdmdIWER0eldzaGZnR3JZL213UmpteDVCTnJpazF2Q3hGVzlValFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjEwMTAzCXZlcnNpb246MC4xMC45CnJnL25Ybkppc0hhTW04ck1SZXVIRndRSFdVZ0RxUzNHa2Q0SWFzQ0RlVVF6c1gzY2VNRGN6enpWU3FxcUVablJYa3U5RUg0U0MvUWp3S0VEZGFZMkFBPT0K",
+      "url": "https://github.com/voviethoai92-lgtm/map-led-releases/releases/download/windows-v0.10.9/MAP_LED_Windows_Setup.exe"
     }
-  },
-  "notes": "MAP LED Windows"
+  }
 }

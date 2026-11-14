@@ -1,12 +1,12 @@
 {
+  "version": "1.0.4",
+  "notes": "MAP LED macOS Apple Silicon",
   "channel": "stable",
-  "version": "0.10.9",
-  "pub_date": "2026-11-09T07:45:05Z",
+  "pub_date": "2026-11-14T00:42:05Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/voviethoai92-lgtm/map-led-releases/releases/download/macos-v0.10.9/MAP_LED_macOS_0.10.9.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IE1BUCBMRUQgbWFjT1MgU3RhYmxlClJVUjNoT3NhaDUxU2Z6WUljdEIwZDg3MGNiS2xDNXlNRWJYazBQMHNjaWZhWVRFdnVIWElvK2F3N2FmSGVwckRpTmMwMG1lb01oZE8wUGRDaUh4TW5WL2ZoUmErV2M3c1lRYz0KdHJ1c3RlZCBjb21tZW50OiB0aW1lc3RhbXA6MTc5NDIxMDMwNAl2ZXJzaW9uOjAuMTAuOQpzaDExaTVqMVg3MWJVMEdGK0V0V2UvKzZCcmU4Nit2VnM4aXVId3RWMW5vWTlabCtLUzdoQTZocndRREEzQjE3WVlrRzQvcS9MRTBsQ0tNdkk2UEhBUT09Cg=="
+      "url": "https://github.com/voviethoai92-lgtm/map-led-releases/releases/download/macos-v1.0.4/MAP_LED_macOS_1.0.4.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IE1BUCBMRUQgbWFjT1MgU3RhYmxlClJVUjNoT3NhaDUxU2Y1RVQ3aURmdXF0c2NXY0lkL2h3M3Y5UkhKTU0vTTFPY2Z4NE5RMGlBdDNaZFhJUE9HQXloZkcwdnNDanh2bkpMbHFVcHIvQWlxTXE3U3d5RzhHYW93QT0KdHJ1c3RlZCBjb21tZW50OiB0aW1lc3RhbXA6MTc5NDYxNjkyMwl2ZXJzaW9uOjEuMC40CmtxTDhIOHkwWkdBeEV3cmgwWjVCTUNvSXZYZW95Qml3RnhJRktrQmxIQWZONi9ZdU4wZXB2SFRDOUJ6alRQVjJLR0htMjBTeGh0REdtRCs3MGp2TkJnPT0K"
     }
-  },
-  "notes": "MAP LED macOS Apple Silicon; unified Windows Production issuer"
+  }
 }
